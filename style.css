@@ -16,7 +16,7 @@ body {
 h1 { font-size: 2.2rem; color: white; margin-bottom: 10px; }
 p { color: rgba(255,255,255,0.85); font-size: 1.1rem; margin-bottom: 30px; }
 .card {
-    background: white;
+    background: red;
     border-radius: 16px;
     padding: 30px;
     margin-bottom: 20px;
